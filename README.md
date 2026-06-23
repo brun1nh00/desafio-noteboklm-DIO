@@ -216,7 +216,7 @@ A fase final transforma os dados extraídos em conhecimento acionável através 
 - Design do Dashboard: Aplica-se o conceito de Leitura em Z, posicionando os cartões de dados gerais no topo e gráficos de detalhamento (como o de barras para "Top 8 Problemas") logo abaixo. O uso de filtros interativos permite que o gestor clique em um mês específico para ver como a performance de um atendente variou naquele período.
 
 
-#🔧 Cicatrizes e Aprendizados:
+# 🔧 Cicatrizes e Aprendizados:
 Durante os testes foi observado que perguntas genéricas produzem respostas superficiais.
 
 - Exemplo de Prompt Genérico:
@@ -271,62 +271,59 @@ Responsabilidades:
           Storytelling com dados
           Visão estratégica de negócio
 
-Exemplo de Prompt Contextualizado
+- Exemplo de Prompt Contextualizado:
+         Explique Power BI para um Analista de Negócios responsável por apresentar indicadores para a diretoria.
 
-Explique Power BI para um Analista de Negócios responsável por apresentar indicadores para a diretoria.
+- Resultado:
+         Resposta mais rica, prática e alinhada ao contexto profissional.
 
-Resultado
-
-Resposta mais rica, prática e alinhada ao contexto profissional.
-
-Principal Aprendizado
-
-Quanto mais contexto for fornecido ao NotebookLM, melhores serão as respostas geradas.
+- Principal Aprendizado:
+         Quanto mais contexto for fornecido ao NotebookLM, melhores serão as respostas geradas.
 
 # 📚 Glossário
 
-KPI:
+- KPI:
          Indicador-chave de desempenho utilizado para medir resultados.
 
-ETL:
+- ETL:
          Processo de Extração, Transformação e Carga de dados.
 
-Dashboard:
+- Dashboard:
          Painel visual utilizado para monitorar métricas e indicadores.
 
-Stakeholder:
+- Stakeholder:
          Pessoa ou grupo impactado por um projeto.
 
-Requisito Funcional:
+- Requisito Funcional:
          Define o que um sistema deve fazer.
 
-Requisito Não Funcional:
+- Requisito Não Funcional:
          Define características de qualidade do sistema.
 
-Data Analytics:
+- Data Analytics:
          Processo de análise de dados para geração de insights.
 
-Business Analysis:
+- Business Analysis:
          Disciplina focada na identificação de necessidades e soluções para o negócio.
 
 # 🚀 Prompts Reutilizáveis
 
-Estudos:
+- Estudos:
          Explique este conceito como se eu fosse um Analista de Negócios Júnior.
 
-Revisão:
+- Revisão:
          Resuma este conteúdo em 10 tópicos principais.
 
-Entrevistas:
+- Entrevistas:
          Gere 20 perguntas de entrevista para Analista de Dados Pleno.
 
-Casos de Negócio:
+- Casos de Negócio:
          Simule uma reunião de levantamento de requisitos entre cliente e analista.
 
-Projetos:
+- Projetos:
          Crie um projeto completo envolvendo SQL, Power BI e análise de indicadores.
 
-Dados:
+- Dados:
          Analise este conjunto de dados e sugira KPIs relevantes para o negócio.
 
 # 🏆 Conclusão
