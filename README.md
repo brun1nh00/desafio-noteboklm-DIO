@@ -1,6 +1,6 @@
 # 📊 Miniguia de Estudos para Analista de Negócios e Analista de Dados com NotebookLM
 
-📖 Sobre o Projeto:
+# 📖 Sobre o Projeto:
 Este projeto foi desenvolvido como parte do desafio prático da DIO utilizando o NotebookLM como ferramenta de aprendizagem ativa.
 
 O objetivo foi construir um caderno temático focado nas áreas de Análise de Negócios (Business Analysis) e Análise de Dados (Data Analytics), consolidando conceitos, práticas de mercado, fontes de estudo e técnicas de engenharia de prompts.
