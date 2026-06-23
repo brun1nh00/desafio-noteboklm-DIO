@@ -215,22 +215,23 @@ A fase final transforma os dados extraídos em conhecimento acionável através 
 
 - Design do Dashboard: Aplica-se o conceito de Leitura em Z, posicionando os cartões de dados gerais no topo e gráficos de detalhamento (como o de barras para "Top 8 Problemas") logo abaixo. O uso de filtros interativos permite que o gestor clique em um mês específico para ver como a performance de um atendente variou naquele período.
 
+
 #🔧 Cicatrizes e Aprendizados:
 Durante os testes foi observado que perguntas genéricas produzem respostas superficiais.
 
-Exemplo de Prompt Genérico:
+- Exemplo de Prompt Genérico:
          Explique Power BI.
 
-Problema:
+- Problema:
          Resposta ampla e pouco direcionada.
 
-Exemplo de Prompt Contextualizado:
+- Exemplo de Prompt Contextualizado:
          Explique Power BI para um Analista de Negócios responsável por apresentar indicadores para a diretoria.
 
-Resultado:
+- Resultado:
          Resposta mais rica, prática e alinhada ao contexto profissional.
 
-Principal Aprendizado:
+- Principal Aprendizado:
          Quanto mais contexto for fornecido ao NotebookLM, melhores serão as respostas geradas.
 
 # 📖 Miniguia de Estudos
