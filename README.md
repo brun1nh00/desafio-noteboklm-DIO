@@ -218,20 +218,20 @@ A fase final transforma os dados extraídos em conhecimento acionável através 
 #🔧 Cicatrizes e Aprendizados:
 Durante os testes foi observado que perguntas genéricas produzem respostas superficiais.
 
-# Exemplo de Prompt Genérico:
-Explique Power BI.
+Exemplo de Prompt Genérico:
+         Explique Power BI.
 
-# Problema
-Resposta ampla e pouco direcionada.
+Problema:
+         Resposta ampla e pouco direcionada.
 
-# Exemplo de Prompt Contextualizado
-Explique Power BI para um Analista de Negócios responsável por apresentar indicadores para a diretoria.
+Exemplo de Prompt Contextualizado:
+         Explique Power BI para um Analista de Negócios responsável por apresentar indicadores para a diretoria.
 
-# Resultado
-Resposta mais rica, prática e alinhada ao contexto profissional.
+Resultado:
+         Resposta mais rica, prática e alinhada ao contexto profissional.
 
-# Principal Aprendizado
-Quanto mais contexto for fornecido ao NotebookLM, melhores serão as respostas geradas.
+Principal Aprendizado:
+         Quanto mais contexto for fornecido ao NotebookLM, melhores serão as respostas geradas.
 
 # 📖 Miniguia de Estudos
 O que faz um Analista de Negócios?
@@ -282,89 +282,51 @@ Principal Aprendizado
 
 Quanto mais contexto for fornecido ao NotebookLM, melhores serão as respostas geradas.
 
-📖 Miniguia de Estudos
-O que faz um Analista de Negócios?
-
-Responsabilidades:
-
-Levantar requisitos.
-Mapear processos.
-Identificar oportunidades de melhoria.
-Traduzir necessidades do negócio para equipes técnicas.
-Apoiar decisões estratégicas.
-Ferramentas Utilizadas
-Jira
-Confluence
-Excel
-Draw.io
-BPMN
-O que faz um Analista de Dados?
-
-Responsabilidades:
-
-Coletar dados.
-Limpar dados.
-Analisar informações.
-Criar dashboards.
-Gerar insights para tomada de decisão.
-Ferramentas Utilizadas
-SQL
-Python
-Power BI
-Excel
-Tableau
-Competências Compartilhadas
-Comunicação
-Pensamento analítico
-Resolução de problemas
-Storytelling com dados
-Visão estratégica de negócio
-
 # 📚 Glossário
 
-KPI
-Indicador-chave de desempenho utilizado para medir resultados.
+KPI:
+         Indicador-chave de desempenho utilizado para medir resultados.
 
-ETL
-Processo de Extração, Transformação e Carga de dados.
+ETL:
+         Processo de Extração, Transformação e Carga de dados.
 
-Dashboard
-Painel visual utilizado para monitorar métricas e indicadores.
+Dashboard:
+         Painel visual utilizado para monitorar métricas e indicadores.
 
-Stakeholder
-Pessoa ou grupo impactado por um projeto.
+Stakeholder:
+         Pessoa ou grupo impactado por um projeto.
 
-Requisito Funcional
-Define o que um sistema deve fazer.
+Requisito Funcional:
+         Define o que um sistema deve fazer.
 
-Requisito Não Funcional
-Define características de qualidade do sistema.
+Requisito Não Funcional:
+         Define características de qualidade do sistema.
 
-Data Analytics
-Processo de análise de dados para geração de insights.
+Data Analytics:
+         Processo de análise de dados para geração de insights.
 
-Business Analysis
-Disciplina focada na identificação de necessidades e soluções para o negócio.
+Business Analysis:
+         Disciplina focada na identificação de necessidades e soluções para o negócio.
 
 # 🚀 Prompts Reutilizáveis
 
-Estudos
-Explique este conceito como se eu fosse um Analista de Negócios Júnior.
+Estudos:
+         Explique este conceito como se eu fosse um Analista de Negócios Júnior.
 
-Revisão
-Resuma este conteúdo em 10 tópicos principais.
+Revisão:
+         Resuma este conteúdo em 10 tópicos principais.
 
-Entrevistas
-Gere 20 perguntas de entrevista para Analista de Dados Pleno.
+Entrevistas:
+         Gere 20 perguntas de entrevista para Analista de Dados Pleno.
 
-Casos de Negócio
-Simule uma reunião de levantamento de requisitos entre cliente e analista.
+Casos de Negócio:
+         Simule uma reunião de levantamento de requisitos entre cliente e analista.
 
-Projetos
-Crie um projeto completo envolvendo SQL, Power BI e análise de indicadores.
+Projetos:
+         Crie um projeto completo envolvendo SQL, Power BI e análise de indicadores.
 
-Dados
-Analise este conjunto de dados e sugira KPIs relevantes para o negócio.
+Dados:
+         Analise este conjunto de dados e sugira KPIs relevantes para o negócio.
 
 # 🏆 Conclusão
 
